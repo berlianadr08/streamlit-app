@@ -1,5 +1,0 @@
-streamlit
-pandas
-nltk
-textblob
-google-play-scraper
